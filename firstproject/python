@@ -1,0 +1,14 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 21, 2022 - 22:56:55
+Django version 3.2.15, using settings 'firstproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 21, 2022 - 22:58:05
+Django version 3.2.15, using settings 'firstproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
